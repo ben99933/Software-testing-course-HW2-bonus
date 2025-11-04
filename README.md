@@ -95,7 +95,7 @@ console.log(solution.grid);
 ## 專案結構
 
 ```
-sudoku-tdd-js/
+.
 ├── sudoku.js          # 主要邏輯實作
 ├── sudoku.test.js     # 測試案例
 └── package.json       # 專案配置檔
